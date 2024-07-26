@@ -144,8 +144,8 @@ What do the following expressions evaluate to:
 int number1 = 12;
 int number2 = 12;
 
-System.out.println(number1++);
-System.out.println(++number2);
+System.out.println(number1++); // 12
+System.out.println(++number2); // 13
 ```
 
 **Why is that?**
